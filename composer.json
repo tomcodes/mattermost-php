@@ -1,5 +1,5 @@
 {
-    "name": "thibaud-dauce/mattermost-php",
+    "name": "tomcodes/mattermost-php",
     "description": "Mattermost PHP driver to send incoming webhooks",
     "homepage": "https://github.com/thibaud-dauce/mattermost-php",
     "type": "library",
